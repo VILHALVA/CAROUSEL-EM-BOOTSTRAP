@@ -1,10 +1,10 @@
 # COROUSEL EM BOOTSTRAP
-🌹UTILIZANDO O FRAMEWORK BOOTSTRAP PARA EXIBIR IMAGENS EM CARROSSEL
+🌹UTILIZANDO O FRAMEWORK BOOTSTRAP PARA EXIBIR IMAGENS EM CARROSSEL.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://cdn.icon-icons.com/icons2/1364/PNG/512/carousel_89253.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este código HTML faz parte de uma página web que utiliza o framework Bootstrap para criar um componente de carrossel (carousel). Vamos analisar cada parte do código:
