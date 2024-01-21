@@ -1,10 +1,7 @@
 # COROUSEL EM BOOTSTRAP
 🌹UTILIZANDO O FRAMEWORK BOOTSTRAP PARA EXIBIR IMAGENS EM CARROSSEL.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este código HTML faz parte de uma página web que utiliza o framework Bootstrap para criar um componente de carrossel (carousel). Vamos analisar cada parte do código:
@@ -34,3 +31,33 @@ Este código HTML faz parte de uma página web que utiliza o framework Bootstrap
    - Vincula o arquivo JavaScript do Bootstrap, que é essencial para o funcionamento de componentes interativos, como o carrossel.
 
 O carrossel exibirá as imagens (`b1.jpg`, `b2.jpg`, etc.) em sequência, com botões de controle e indicadores para navegação. O Bootstrap simplifica a criação de componentes responsivos e interativos, facilitando o desenvolvimento de páginas web modernas.
+
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/COROUSEL-EM-BOOTSTRAP.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd COROUSEL-EM-BOOTSTRAP
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip COROUSEL-EM-BOOTSTRAP.zip
+```
+* Abra o arquivo `INDEX.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Curso de Bootstrap](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
