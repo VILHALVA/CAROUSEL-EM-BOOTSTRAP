@@ -32,32 +32,12 @@ Este código HTML faz parte de uma página web que utiliza o framework Bootstrap
 
 O carrossel exibirá as imagens (`b1.jpg`, `b2.jpg`, etc.) em sequência, com botões de controle e indicadores para navegação. O Bootstrap simplifica a criação de componentes responsivos e interativos, facilitando o desenvolvimento de páginas web modernas.
 
-## COMO USAR?
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/COROUSEL-EM-BOOTSTRAP.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd COROUSEL-EM-BOOTSTRAP
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip COROUSEL-EM-BOOTSTRAP.zip
-```
-* Abra o arquivo `INDEX.html` em seu navegador de preferência.
-
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Curso de Bootstrap](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CURSO DE BOOTSTRAP](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
